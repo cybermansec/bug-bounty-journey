@@ -8,7 +8,7 @@ A remote code execution (RCE) vulnerability exists in the profile image upload f
 
 ###  Vulnerable endpoint
 
-`POST /my-account/avatar`
+`GET /files/avatars/`
 
 ---
 
