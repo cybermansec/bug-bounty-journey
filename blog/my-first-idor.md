@@ -110,7 +110,7 @@ That mindset continues to guide my approach to security testing.
 
 ## Follow the Journey
 
-This finding was documented as part of my 100 Day Bug Bounty Challenge (Day 36).
+This finding was documented as part of my 100 Day Bug Bounty Challenge (Currently in day 71).
 
 I’m sharing my journey as I learn — including wins, mistakes and lessons from real-world security testing.
 
