@@ -1,5 +1,7 @@
 # How I Found My First IDOR During Bug Bounty Testing
 
+*Details have been intentionally redacted in accordance with responsible disclosure.*
+
 *By Cyber | Day 36 of my 100 Day Bug Bounty Challenge*
 
 ---
