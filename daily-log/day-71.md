@@ -1,4 +1,4 @@
-Day 71/100 
+# Day 71 - Bug Bounty Journey
 
 I focused on recon across a couple targets today.
 
