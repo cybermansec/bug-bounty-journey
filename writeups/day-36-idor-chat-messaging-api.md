@@ -22,7 +22,7 @@ POST /api/.../conversations/{conversationId}/messages
 - Chat system abuse
 
 ## Notes
-This issue was discovered during live security testing and reported through responsible disclosure channels. Resolution status is pending confirmation.
+This issue was discovered during live security testing and reported through responsible disclosure channels. Resolution status was confirmed to be a duplicate of a bounty awarded report.
 
 ## Tools Used
 - Burp Suite
