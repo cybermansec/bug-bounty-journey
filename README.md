@@ -26,9 +26,6 @@ PortSwigger, TryHackMe, and practice lab notes.
 ### writeups/
 Writeups and vulnerability analysis from practice environments.
 
-### daily-log/
-Progress logs from my #100DaysOfHacking journey.
-
 ---
 
 Currently focused on improving web vulnerability discovery and understanding how modern applications handle user input, authentication, and client-side behavior.
